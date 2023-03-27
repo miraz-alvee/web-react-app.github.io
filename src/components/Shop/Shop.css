@@ -3,8 +3,8 @@
     grid-template-columns: 4fr 1fr;
 }
 .products-container{
-    margin: 40px;
+    margin: 50px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap: 30px;
+    gap: 50px;
 }
